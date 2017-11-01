@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://A:\Study\Telkom University\Lab AI\Text Processing\.idea\Image Processing.iml" filepath="A:\Study\Telkom University\Lab AI\Text Processing\.idea\Image Processing.iml" />
       <module fileurl="file://A:\Study\Telkom University\Semester 5 [We're Here]\IMPAL\Sistem_Keuangan_Terstruktur\.idea\Sistem_Keuangan_Terstruktur.iml" filepath="A:\Study\Telkom University\Semester 5 [We're Here]\IMPAL\Sistem_Keuangan_Terstruktur\.idea\Sistem_Keuangan_Terstruktur.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Text Processing/.idea/Image Processing.iml" filepath="$PROJECT_DIR$/../Text Processing/.idea/Image Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Text Processing.iml" filepath="$PROJECT_DIR$/.idea/Text Processing.iml" />
     </modules>
   </component>
 </project>
